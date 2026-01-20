@@ -19,7 +19,7 @@
 body {
   font-family: "Inter", "Segoe UI", system-ui, sans-serif;
   color: var(--navy);
-  background: var(--white);
+  background: #d9ecff;
   line-height: 1.6;
   scroll-behavior: smooth;
 }
@@ -179,7 +179,7 @@ a {
 }
 
 .btn.primary {
-  background: var(--navy);
+  background: #003a80;
   color: var(--white);
   box-shadow: var(--shadow);
 }
