@@ -1,3 +1,7 @@
+body {
+  background: #dbeafe !important; /* light blue */
+}
+
 :root {
   color-scheme: light;
   --navy: #0b1f36;
