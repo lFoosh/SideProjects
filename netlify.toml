@@ -1,4 +1,3 @@
 [build]
-  base = "generate-full-website-files-for-property-listing"
-  publish = "."
-  command = ""
+publish = "."
+command = ""
